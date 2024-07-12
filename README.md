@@ -1,2 +1,2 @@
-# dataanalysis
-Self-made Projects to demonstrate Data Analysis
+# Dashboards
+Projects to demonstrate Data Analysis
